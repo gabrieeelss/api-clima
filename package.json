@@ -1,0 +1,20 @@
+{
+  "name": "api-clima",
+  "version": "1.0.0",
+  "description": "API de previsão do tempo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieeelss/api-clima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieeelss/api-clima/issues"
+  },
+  "homepage": "https://github.com/gabrieeelss/api-clima#readme"
+}
